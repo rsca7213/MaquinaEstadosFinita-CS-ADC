@@ -1,0 +1,9 @@
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\bin\Debug\Proyecto ADC.exe.config
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\obj\Debug\Proyecto ADC.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\obj\Debug\Proyecto_ADC.Form1.resources
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\obj\Debug\Proyecto_ADC.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\obj\Debug\Proyecto ADC.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\bin\Debug\Proyecto ADC.exe
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\bin\Debug\Proyecto ADC.pdb
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\obj\Debug\Proyecto ADC.exe
+C:\Users\Ricardo\Desktop\C&C++ Projects\Proyecto ADC\Proyecto ADC\obj\Debug\Proyecto ADC.pdb
